@@ -30,7 +30,7 @@
 ## 🛠 How to Install & Use  
 
 ### **Option 1: Run the Portable EXE (No Installation Required)**
-1. **Download** the latest version from the [Releases](https://drive.google.com/file/d/1YDCtI2WhbzeWzADLdEWSQUQkwdg0lV50/view?usp=sharing) section.  
+1. **Download** the latest version from the [Releases](https://mega.nz/file/PYQUHAyb#15bppLSI-PKoOEUtySmUxqDvnRE_O8S7anJmJYkt5hE) section.  
 2. **Extract the ZIP file** (if applicable).  
 3. **Run `YouTubeDownloader.exe`** – Start downloading instantly! 🎉  
 
