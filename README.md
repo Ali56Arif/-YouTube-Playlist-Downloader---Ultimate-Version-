@@ -21,7 +21,7 @@
 
 ## 📥 Download  
 ### 🔗 Get the Latest Version  
-📌 [**Download YouTube Playlist Downloader (EXE)**](https://drive.google.com/file/d/1YDCtI2WhbzeWzADLdEWSQUQkwdg0lV50/view?usp=sharing)  
+📌 [**Download YouTube Playlist Downloader (EXE)**](https://mega.nz/file/PYQUHAyb#15bppLSI-PKoOEUtySmUxqDvnRE_O8S7anJmJYkt5hE)  
 
 **Portable Version Available!** No installation required! 🚀  
 
