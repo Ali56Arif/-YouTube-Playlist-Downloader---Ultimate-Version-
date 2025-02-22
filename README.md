@@ -54,9 +54,9 @@
 ## 💻 Screenshots  
 | Home Page | Downloading | Completed |
 |-----------|------------|------------|
-| ![Home Page](![image](https://github.com/user-attachments/assets/0419575b-8859-4ccc-bba0-c8830187e1e3))
-| ![Downloading](![image](https://github.com/user-attachments/assets/21eb09f7-542d-4d53-b8ab-b3ceb1952c6e))
-| ![Completed](![image](https://github.com/user-attachments/assets/74a0bb56-1f57-4fe3-a756-3dbade9903c9))|
+| ![Home Page](![image](https://github.com/user-attachments/assets/0419575b-8859-4ccc-bba0-c8830187e1e3)
+| ![Downloading](![image](https://github.com/user-attachments/assets/21eb09f7-542d-4d53-b8ab-b3ceb1952c6e)
+| ![Completed](![image](https://github.com/user-attachments/assets/74a0bb56-1f57-4fe3-a756-3dbade9903c9)|
 
 ---
 
