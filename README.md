@@ -81,7 +81,7 @@ Maintaining this free tool takes time & resources. If you love it, consider **do
 
 ## 🤝 Contribute  
 Want to help improve this project? **Join us!**  
-✔ **Report Bugs** – [Open an issue](support@ayatiin.com).  
+✔ **Report Bugs** – [Open an issue](https://github.com/Ali56Arif/YouTube-Playlist-Downloader---Ultimate-Version/issues).  
 ✔ **Suggest Features** – Have a cool idea? Let us know!  
 ✔ **Fork & Improve** – Want to add features? Fork this repo & submit a pull request.  
 
