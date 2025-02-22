@@ -100,3 +100,6 @@ Want to help improve this project? **Join us!**
 ## 🔥 License  
 This project is **open-source** under the **MIT License**.  
 Feel free to **use, modify, and distribute it**! 🎉  
+
+📜 [View Full License](https://github.com/Ali56Arif/-YouTube-Playlist-Downloader---Ultimate-Version-/releases/tag/License)
+
