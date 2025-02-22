@@ -34,20 +34,6 @@
 2. **Extract the ZIP file** (if applicable).  
 3. **Run `YouTubeDownloader.exe`** – Start downloading instantly! 🎉  
 
-### **Option 2: Run from Source Code (For Developers)**
-1. **Clone the repository**:  
-   ```sh
-   git clone https://github.com/ayatiinprojects/youtube-downloader.git
-   cd youtube-downloader
-   ```
-2. **Install dependencies**:  
-   ```sh
-   pip install -r requirements.txt
-   ```
-3. **Run the app**:  
-   ```sh
-   python YouTube.py
-   ```
 
 ---
 
