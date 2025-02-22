@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/997e89b9-1ec4-4563-ba70-5b754f0d3c6b)# 🎥 YouTube Playlist Downloader - Ultimate Version 🚀  
+# 🎥 YouTube Playlist Downloader - Ultimate Version 🚀  
 **A powerful, free, and open-source YouTube Playlist Downloader developed by Ayatiin Projects.**  
 
 📥 **Download entire YouTube playlists in MP4 or MP3 format with ease!**  
@@ -55,10 +55,7 @@
 | Home Page | Downloading | Completed |
 |-----------|------------|------------|
 | ![Home Page](![image](https://github.com/user-attachments/assets/0419575b-8859-4ccc-bba0-c8830187e1e3)
-) | ![Downloading](![image](https://github.com/user-attachments/assets/21eb09f7-542d-4d53-b8ab-b3ceb1952c6e)
-)
-) | ![Completed](![image](https://github.com/user-attachments/assets/74a0bb56-1f57-4fe3-a756-3dbade9903c9)
-) |
+| ![Downloading](![image](https://github.com/user-attachments/assets/21eb09f7-542d-4d53-b8ab-b3ceb1952c6e) | ![Completed](![image](https://github.com/user-attachments/assets/74a0bb56-1f57-4fe3-a756-3dbade9903c9)|
 
 ---
 
